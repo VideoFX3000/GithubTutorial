@@ -1,4 +1,0 @@
-GithubTutorial
-==============
-
-AVPRG Tutorial
