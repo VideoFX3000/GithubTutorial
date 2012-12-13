@@ -29,3 +29,5 @@ _ReSharper*/
 $tf*/
 *.opensdf
 *.ipch
+*.vcxproj
+*.filters
